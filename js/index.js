@@ -4,3 +4,10 @@ console.log("Isso é um console.log!")
 var primeiroNome = "João Pedro ";
 var segundoNome = " Sandri Terra";
 console.log(primeiroNome + segundoNome);
+
+//comentario
+/*comentario
+teste
+teste
+tese
+*/
